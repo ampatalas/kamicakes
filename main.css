@@ -1,0 +1,46 @@
+body {
+    background-image: url("images/background.png");
+}
+
+.container {
+	background-color: #fff;
+	padding: 0px;
+}
+
+.jumbotron {
+	background-color: #fff;
+}
+
+footer {
+    margin-top: 30px;
+    width: 100%;
+    height: 60px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.row div, h1 {
+	text-align: center;
+}
+
+.site-name {
+	color: #9587b5;
+}
+
+.page-header {
+	margin-top: -60px;
+}
+
+.ecipe-photo {
+	text-align: center;
+}
+
+.recipe {
+	text-align: left !important
+}
